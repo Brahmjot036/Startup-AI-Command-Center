@@ -1,0 +1,28 @@
+timestamp,module,prompt,response_word_count,latency_s
+2025-08-31T16:47:31.029297,Financial Forecast,"Summarize this revenue projection in a professional single-paragraph investor-ready note. Initial=10000.0, growth_rate=0.34, months=12.",50,7.264
+2025-08-31T17:02:35.607288,Branding Kit,"Suggest 6 candidate names (one-word or compound), 3 taglines, and 3 short brand positioning statements for: . Tone: India English. Return plain text, structured lists only.",157,11.675
+2025-08-31T17:02:52.222607,Branding Kit,"Suggest 6 candidate names (one-word or compound), 3 taglines, and 3 short brand positioning statements for: i want to expand the ecommerce business. Tone: India English. Return plain text, structured lists only.",151,8.886
+2025-08-31T17:08:55.380828,Idea Generator,"Keywords: Logistics, Tone: Technical",1644,16.868
+2025-08-31T17:19:03.289197,Idea Generator,"Keywords: ai , web developement, Tone: Professional",1666,16.835
+2025-08-31T17:21:39.162765,Idea Generator,"Keywords: ai , web development, Tone: Professional",1700,16.893
+2025-08-31T17:25:10.399998,Idea Generator,"Keywords: AI & web development, Tone: Professional",1839,17.963
+2025-08-31T17:27:19.827250,Idea Generator,"Keywords: Logistics, Tone: Professional",1492,14.682
+2025-08-31T17:27:36.215457,Idea Generator,"Keywords: Logistics, Tone: Professional",1607,14.902
+2025-08-31T17:29:02.146232,Market Research,"Topic: Google, Timeframe: ",1314,14.49
+2025-08-31T17:30:03.475578,Market Research,"Topic: Education sector, Timeframe: ",1239,12.717
+2025-08-31T17:31:50.617749,Market Research,"Topic: Health sector, Timeframe: 2021-2024",1509,14.975
+2025-08-31T17:34:08.010499,Business Model Canvas,"Startup: Valovance, Description: We build the IT softwares for other companies for there ease 
+",975,10.887
+2025-08-31T17:35:00.434042,Financial Forecast,Revenue projection analysis,1115,12.468
+2025-08-31T17:35:46.272699,SWOT & Risks,"Startup summary: We build the IT softwares for other companies for there ease 
+",25,0.0
+2025-08-31T17:36:28.164326,SWOT & Risks,Startup summary: we build software solutions for startups,25,0.0
+2025-08-31T17:36:55.133480,Investor Q&A,Pitch: we build software solutions for startups,1335,13.243
+2025-08-31T17:37:34.263075,Branding Kit,"Product: we build software solutions for startups, Locale: Global English",767,9.987
+2025-08-31T17:39:18.960564,Idea Generator,"Keywords: ai, Tone: Professional",1299,11.538
+2025-08-31T17:42:41.275090,Idea Generator,"Keywords: AI, Tone: Professional",1640,16.621
+2025-08-31T17:43:46.196188,Market Research,"Topic: Education sector , Timeframe: 2024-2025",1238,12.86
+2025-08-31T17:45:19.160462,Financial Forecast,Revenue projection analysis,1598,18.213
+2025-08-31T17:46:40.164716,Investor Q&A,Pitch: We build the softwares for the startup companies ,1612,15.518
+2025-08-31T23:19:16.349352,Market Research,"Topic: IT risk audit jobs, Timeframe: 2024-2025",1854,20.148
+2025-08-31T23:22:06.835309,Financial Forecast,Revenue projection analysis,1243,14.778
